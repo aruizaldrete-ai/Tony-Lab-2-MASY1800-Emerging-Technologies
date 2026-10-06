@@ -6,9 +6,9 @@
 - Final candidate version: 0.2-student.
 - Frozen scaffold: MASY1800_ET_Agent_Scaffold_v1_0, version 1.0.
 - Requirements source: User-provided authoritative Assignment 2 specialization requirements.
-- GitHub repository URL: TO BE FILLED IN.
-- Assignment branch: TO BE FILLED IN.
-- Final candidate commit SHA: TO BE FILLED IN.
+- GitHub repository URL: https://github.com/aruizaldrete-ai/Tony-Lab-2-MASY1800-Emerging-Technologies
+- Assignment branch: lab2-creation-agent
+- Final candidate commit SHA: 8f4d9970e457af52894961675fcaf83beaa8ff71
 - Repository status: The last workspace Git check reported no repository here or in a parent directory. No repository, branch, or commit has been invented.
 - Governing question: How did this technology come into existence, what combination of prior capabilities made it possible, and what does that history imply for this application and organization?
 
