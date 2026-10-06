@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Large Language Models / Generative AI",
+  "intended_application": "An LLM-based assistant that summarizes loan application documents for human credit reviewers, with source references and explicit missing-information flags.",
+  "organization": "A regional retail bank.",
+  "industry_sector": "Banking / consumer lending.",
+  "business_need": "Reduce document review time while preserving accurate, traceable summaries for qualified reviewers.",
+  "users_stakeholders": "Loan applicants, credit reviewers, compliance personnel, model-risk staff, IT/data teams, and management.",
+  "adoption_posture": "Conservative / risk-averse.",
+  "capabilities_constraints": "Sensitive personal and financial records, established human credit-review workflows, limited AI evaluation capacity, and a need for auditable source references and access controls.",
+  "risk_consequence_context": "Omissions, fabricated facts, or biased summaries could influence consequential lending decisions. Human reviewers must verify the source documents and retain decision authority; the assistant does not approve, deny, or score applications.",
+  "management_question": "Should management consider a restricted document-summary pilot within the next 18–24 months, and what does the technology's creation and evolution imply for that decision?",
+  "time_horizon": "Next 18–24 months.",
+  "additional_context": "Optional, synthetic contrast case proposed for Assignment 2 testing. Organizational details are scenario assumptions, not verified facts about a real bank."
+}

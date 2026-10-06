@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Large Language Models / Generative AI",
+  "intended_application": "An LLM-based knowledge assistant for maintenance and operations personnel that helps employees retrieve, synthesize, and interpret internal procedures, equipment documentation, troubleshooting information, and operational knowledge.",
+  "organization": "A large petrochemical or energy company operating safety-sensitive industrial facilities.",
+  "industry_sector": "Petrochemical / energy.",
+  "business_need": "Reduce the time required to locate and interpret technical knowledge while improving consistency of access to operational and maintenance information.",
+  "users_stakeholders": "Maintenance technicians, operations personnel, engineers, supervisors, safety personnel, IT/data teams, and management.",
+  "adoption_posture": "Moderate / fast-follower.",
+  "capabilities_constraints": "The company has substantial internal documentation and technical expertise but must account for legacy systems, proprietary data, cybersecurity requirements, source quality, workforce trust, and integration with existing workflows.",
+  "risk_consequence_context": "Incorrect, unsupported, or overconfident information could contribute to operational errors, safety issues, equipment damage, downtime, or poor maintenance decisions. The system should support qualified humans rather than independently control equipment or make safety-critical operational decisions.",
+  "management_question": "Should management pilot an LLM-based operations knowledge assistant within the next 12–24 months, and what does the technology's creation and evolution imply for that decision?",
+  "time_horizon": "Next 12–24 months.",
+  "additional_context": ""
+}
